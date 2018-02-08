@@ -16,4 +16,10 @@
 | n  |                            |                             | <ruby>ん<rt>n</rt></ruby>   |                            |                            |
 
 ## Les déclinaisons
-ztfuzg
+|    | -a                         | -i                         | -u                          | -e                         | -o                         |
+|----|----------------------------|----------------------------|-----------------------------|----------------------------|----------------------------|
+| g- | <ruby>が<rt>ga</rt></ruby> | <ruby>ぎ<rt>gi</rt></ruby> | <ruby>ぐ<rt>gu</rt></ruby>  | <ruby>げ<rt>ge</rt></ruby> | <ruby>ご<rt>go</rt></ruby> |
+| z- | <ruby>ざ<rt>za</rt></ruby> | <ruby>じ<rt>zi</rt></ruby> | <ruby>ず<rt>zu</rt></ruby>  | <ruby>ぜ<rt>ze</rt></ruby> | <ruby>ぞ<rt>zo</rt></ruby> |
+| d- | <ruby>だ<rt>da</rt></ruby> | <ruby>ぢ<rt>ji</rt></ruby> | <ruby>づ<rt>dzu</rt></ruby> | <ruby>で<rt>de</rt></ruby> | <ruby>ど<rt>do</rt></ruby> |
+| b- | <ruby>ば<rt>ba</rt></ruby> | <ruby>び<rt>bi</rt></ruby> | <ruby>ぶ<rt>bu</rt></ruby>  | <ruby>べ<rt>be</rt></ruby> | <ruby>ぼ<rt>bo</rt></ruby> |
+| p- | <ruby>ぱ<rt>pa</rt></ruby> | <ruby>ぴ<rt>pi</rt></ruby> | <ruby>ぷ<rt>pu</rt></ruby>  | <ruby>ぺ<rt>pe</rt></ruby> | <ruby>ぽ<rt>po</rt></ruby> |
