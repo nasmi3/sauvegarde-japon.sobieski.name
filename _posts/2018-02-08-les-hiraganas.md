@@ -9,6 +9,7 @@ permalink: >
 published: true
 post_date: 2018-02-08 17:40:33
 ---
+
 <h2>Les basiques</h2>
 <table>
 <thead>
