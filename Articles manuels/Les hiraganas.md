@@ -23,3 +23,19 @@
 | d- | <ruby>だ<rt>da</rt></ruby> | <ruby>ぢ<rt>ji</rt></ruby> | <ruby>づ<rt>dzu</rt></ruby> | <ruby>で<rt>de</rt></ruby> | <ruby>ど<rt>do</rt></ruby> |
 | b- | <ruby>ば<rt>ba</rt></ruby> | <ruby>び<rt>bi</rt></ruby> | <ruby>ぶ<rt>bu</rt></ruby>  | <ruby>べ<rt>be</rt></ruby> | <ruby>ぼ<rt>bo</rt></ruby> |
 | p- | <ruby>ぱ<rt>pa</rt></ruby> | <ruby>ぴ<rt>pi</rt></ruby> | <ruby>ぷ<rt>pu</rt></ruby>  | <ruby>ぺ<rt>pe</rt></ruby> | <ruby>ぽ<rt>po</rt></ruby> |
+
+## Les combinaisons
+
+| a              | u               |                o|
+|----------------|-----------------|-----------------|
+|<ruby>きゃ</ruby> | <ruby>きゅ</ruby> | <ruby>きょ</ruby> |
+|<ruby>ぎゃ</ruby> | <ruby>ぎゅ</ruby> | <ruby>ぎょ</ruby> |
+|<ruby>しゃ</ruby> | <ruby>しゅ</ruby> | <ruby>しょ</ruby> |
+|<ruby>じゃ</ruby> | <ruby>じゅ</ruby> | <ruby>じょ</ruby> |
+|<ruby>ちゃ</ruby> | <ruby>ちゅ</ruby> | <ruby>ちょ</ruby> |
+|<ruby>にゃ</ruby> | <ruby>にゅ</ruby> | <ruby>にょ</ruby> |
+|<ruby>ひゃ</ruby> | <ruby>ひゅ</ruby> | <ruby>ひょ</ruby> |
+|<ruby>びゃ</ruby> | <ruby>びゅ</ruby> | <ruby>びょ</ruby> |
+|<ruby>ぴゃ</ruby> | <ruby>ぴゅ</ruby> | <ruby>ぴょ</ruby> |
+|<ruby>みゃ</ruby> | <ruby>みゅ</ruby> | <ruby>みょ</ruby> |
+|<ruby>りゃ</ruby> | <ruby>りゅ</ruby> | <ruby>りょ</ruby> |
