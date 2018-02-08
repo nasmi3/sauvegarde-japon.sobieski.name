@@ -14,3 +14,6 @@
 | y- | <ruby>や<rt>ya</rt></ruby> |                             | <ruby>ゆ<rt>yu</rt></ruby>  |                            | <ruby>よ<rt>yo</rt></ruby> |
 | w- | <ruby>わ<rt>wa</rt></ruby> |                             |                             |                            | <ruby>を<rt>wo</rt></ruby> |
 | n  |                            |                             | <ruby>ん<rt>n</rt></ruby>   |                            |                            |
+
+## Les déclinaisons
+ztfuzg
