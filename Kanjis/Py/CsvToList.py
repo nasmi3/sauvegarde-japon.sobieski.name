@@ -9,8 +9,10 @@ def convertisseur(fichier):
     Output :
         Liste
     """
-    with open('fichier', 'r') as f:
+    print(fichier)
+    with open(str(fichier), 'r', encoding="utf8") as f:
         reader = csv.reader(f)
         liste_CSV = list(reader)
 
-    print(liste_CSV)
+    # print(liste_CSV)
+    return(liste_CSV)
