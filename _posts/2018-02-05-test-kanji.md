@@ -8,59 +8,23 @@ permalink: http://sobieski.name/japon/test-kanji/
 published: true
 post_date: 2018-02-05 08:55:19
 ---
-[et_pb_section bb_built="1" _builder_version="3.0.95"][et_pb_row _builder_version="3.0.95" background_size="initial" background_position="top_left" background_repeat="repeat" module_alignment="center"][et_pb_column type="4_4"][et_pb_text admin_label="Traduction" _builder_version="3.0.95" text_font="||||||||" header_font="||||||||" header_text_align="center" header_font_size="45px"]
-
-<h1>Intervalle
+[et_pb_section fb_built="1" _builder_version="3.0.95"][et_pb_row _builder_version="3.0.95" background_size="initial" background_position="top_left" background_repeat="repeat" module_alignment="center"][et_pb_column type="4_4" _builder_version="3.0.47" parallax="off" parallax_method="on"][et_pb_text admin_label="Traduction" _builder_version="3.0.95" text_font="||||||||" header_font="||||||||" header_text_align="center" header_font_size="45px"]<h1>Intervalle
 Espace</h1>
-
-[/et_pb_text][et_pb_divider color="#c75850" show_divider="on" divider_weight="1px" height="3px" _builder_version="3.0.95" background_color="#c75850" /][/et_pb_column][/et_pb_row][et_pb_row _builder_version="3.0.47" background_size="initial" background_position="top_left" background_repeat="repeat"][et_pb_column type="1_2"][et_pb_text admin_label="Kun" _builder_version="3.0.95" header_font="||||||||" header_text_align="left" header_2_font="||||||||" header_2_text_align="center" header_2_font_size="35px"]
-
-<h2>Kun</h2>
-
-[/et_pb_text][et_pb_text _builder_version="3.0.95" text_font="||||||||" text_font_size="20px" link_font="||||||||" ul_font="||||||||" ol_font="||||||||" header_font="||||||||" custom_css_main_element="writing-mode: vertical-rl;||margin-left: auto;||margin-right: auto;"]
-
-<p>あいだ</p>
+[/et_pb_text][et_pb_divider color="#c75850" show_divider="on" divider_weight="1px" height="3px" _builder_version="3.0.95" background_color="#c75850"][/et_pb_divider][/et_pb_column][/et_pb_row][et_pb_row _builder_version="3.0.47" background_size="initial" background_position="top_left" background_repeat="repeat"][et_pb_column type="1_2" _builder_version="3.0.47" parallax="off" parallax_method="on"][et_pb_text admin_label="Kun" _builder_version="3.0.95" header_font="||||||||" header_text_align="left" header_2_font="||||||||" header_2_text_align="center" header_2_font_size="35px"]<h2>Kun</h2>
+[/et_pb_text][et_pb_text _builder_version="3.0.95" text_font="||||||||" text_font_size="20px" link_font="||||||||" ul_font="||||||||" ol_font="||||||||" header_font="||||||||" custom_css_main_element="writing-mode: vertical-rl;||margin-left: auto;||margin-right: auto;"]<p>あいだ</p>
 <p>ま</p>
-
-[/et_pb_text][/et_pb_column][et_pb_column type="1_2"][et_pb_text admin_label="On" _builder_version="3.0.95" header_font="||||||||" header_2_font="||||||||" header_2_text_align="center" header_2_font_size="35px"]
-
-<h2>On</h2>
-
-[/et_pb_text][et_pb_text _builder_version="3.0.95" text_font="||||||||" text_font_size="20px" link_font="||||||||" ul_font="||||||||" ol_font="||||||||" header_font="||||||||" custom_css_main_element="writing-mode: vertical-rl;||margin-left: auto;||margin-right: auto;"]
-
-カン
+[/et_pb_text][/et_pb_column][et_pb_column type="1_2" _builder_version="3.0.47" parallax="off" parallax_method="on"][et_pb_text admin_label="On" _builder_version="3.0.95" header_font="||||||||" header_2_font="||||||||" header_2_text_align="center" header_2_font_size="35px"]<h2>On</h2>
+[/et_pb_text][et_pb_text _builder_version="3.0.95" text_font="||||||||" text_font_size="20px" link_font="||||||||" ul_font="||||||||" ol_font="||||||||" header_font="||||||||" custom_css_main_element="writing-mode: vertical-rl;||margin-left: auto;||margin-right: auto;"]カン
 
 ケン
-
-[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row _builder_version="3.0.47" background_size="initial" background_position="top_left" background_repeat="repeat"][et_pb_column type="4_4"][et_pb_divider color="#c75850" show_divider="on" height="3px" _builder_version="3.0.95" background_color="#c75850" /][et_pb_text _builder_version="3.0.95"]
-
-<h2>Exemples</h2>
-
-[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row _builder_version="3.0.47" background_size="initial" background_position="top_left" background_repeat="repeat"][et_pb_column type="1_2"][et_pb_text _builder_version="3.0.95" text_font="||||||||" text_font_size="15px" header_font="||||||||"]
-
-<ruby>時間<rt>ジカン</rt></ruby> Heure/temps/durée
-
-[/et_pb_text][et_pb_text _builder_version="3.0.95"]
-
-<ruby>休みの間<rt>やすみのあいだ</rt></ruby> Pendant les vacances
-
-[/et_pb_text][/et_pb_column][et_pb_column type="1_2"][et_pb_text _builder_version="3.0.95"]
-
-<p><ruby>人間<rt>にんげん</rt></ruby> Être humain</p>
-
-[/et_pb_text][et_pb_text _builder_version="3.0.95"]
-
-<ruby>間違う<rt>まちがう</rt></ruby> Se tromper
-
-[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section bb_built="1" _builder_version="3.0.95"][et_pb_row _builder_version="3.0.95"][et_pb_column type="4_4"][et_pb_text _builder_version="3.0.95" header_font="||||||||" header_text_align="center" header_font_size="250px" header_text_shadow_style="preset1" animation_style="flip" animation_direction="bottom"]
-
-<h1>間</h1>
-
-[/et_pb_text][et_pb_text _builder_version="3.0.100" header_text_align="center" header_font_size="250px" header_text_shadow_style="preset1" animation_style="flip" animation_direction="bottom" background_layout="light"]
-
-<h1>かさきしみ</h1>
-
-[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section bb_built="1" _builder_version="3.0.95"][et_pb_row _builder_version="3.0.95"][et_pb_column type="1_2"][et_pb_slider _builder_version="3.0.100" background_color="#e0735b" use_background_color_gradient="on" background_color_gradient_start="#fc6076" background_color_gradient_end="#ff9a44" background_color_gradient_direction="1deg" border_radii="on|10px|10px|10px|10px" custom_padding="5%|8%|5%|5%" custom_padding_last_edited="on|desktop" box_shadow_horizontal="0px" box_shadow_vertical="3px" box_shadow_blur="6px" show_arrows="on" show_pagination="on" custom_button="off" button_icon_placement="right" show_content_on_mobile="on" show_cta_on_mobile="on" show_image_video_mobile="off"][et_pb_slide heading="Kanji" _builder_version="3.0.95"]<p style="font-size: 250px; text-shadow: 0em 0.1em 0.1em rgba(0,0,0,0.4); padding-left: 3%; line-height: 300px">間</p>[/et_pb_slide][et_pb_slide heading="Traduction" _builder_version="3.0.95" custom_padding="||80px|"]<div class="container" style="display: grid; grid-template-columns: 22% 23% 5% 23% 22%; grid-template-rows: 10% 3px 50px 15% 3px 10% 10%; grid-column-gap: 3%; grid-row-gap: 20px;">
+[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row _builder_version="3.0.47" background_size="initial" background_position="top_left" background_repeat="repeat"][et_pb_column type="4_4" _builder_version="3.0.47" parallax="off" parallax_method="on"][et_pb_divider color="#c75850" show_divider="on" height="3px" _builder_version="3.0.95" background_color="#c75850"][/et_pb_divider][et_pb_text _builder_version="3.0.95"]<h2>Exemples</h2>
+[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row _builder_version="3.0.47" background_size="initial" background_position="top_left" background_repeat="repeat"][et_pb_column type="1_2" _builder_version="3.0.47" parallax="off" parallax_method="on"][et_pb_text _builder_version="3.0.95" text_font="||||||||" text_font_size="15px" header_font="||||||||"]<ruby>時間<rt>ジカン</rt></ruby> Heure/temps/durée
+[/et_pb_text][et_pb_text _builder_version="3.0.95"]<ruby>休みの間<rt>やすみのあいだ</rt></ruby> Pendant les vacances
+[/et_pb_text][/et_pb_column][et_pb_column type="1_2" _builder_version="3.0.47" parallax="off" parallax_method="on"][et_pb_text _builder_version="3.0.95"]<p><ruby>人間<rt>にんげん</rt></ruby> Être humain</p>
+[/et_pb_text][et_pb_text _builder_version="3.0.95"]<ruby>間違う<rt>まちがう</rt></ruby> Se tromper
+[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section fb_built="1" _builder_version="3.0.95"][et_pb_row _builder_version="3.0.95"][et_pb_column type="4_4" _builder_version="3.0.47" parallax="off" parallax_method="on"][et_pb_text _builder_version="3.0.95" header_font="||||||||" header_text_align="center" header_font_size="250px" header_text_shadow_style="preset1" animation_style="flip" animation_direction="bottom"]<h1>間</h1>
+[/et_pb_text][et_pb_text _builder_version="3.0.100" header_text_align="center" header_font_size="250px" header_text_shadow_style="preset1" animation_style="flip" animation_direction="bottom"]<h1>かさきしみ</h1>
+[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section fb_built="1" _builder_version="3.0.95"][et_pb_row _builder_version="3.0.95"][et_pb_column type="1_2" _builder_version="3.0.47" parallax="off" parallax_method="on"][et_pb_slider _builder_version="3.0.100" background_color="#e0735b" use_background_color_gradient="on" background_color_gradient_start="#fc6076" background_color_gradient_end="#ff9a44" background_color_gradient_direction="1deg" border_radii="on|10px|10px|10px|10px" custom_padding="5%|8%|5%|5%" custom_padding_last_edited="on|desktop"][et_pb_slide heading="Kanji" _builder_version="3.0.95"]<p style="font-size: 250px; text-shadow: 0em 0.1em 0.1em rgba(0,0,0,0.4); padding-left: 3%; line-height: 300px">間</p>[/et_pb_slide][et_pb_slide heading="Traduction" _builder_version="3.0.95" custom_padding="||80px|"]<div class="container" style="display: grid; grid-template-columns: 22% 23% 5% 23% 22%; grid-template-rows: 10% 3px 50px 15% 3px 10% 10%; grid-column-gap: 3%; grid-row-gap: 20px;">
 <div class="item traduction" style="grid-column: 1 / span 5; grid-row: 1 / span 1; text-align: center; font-size: 45px;">
 <h1>Intervalle<br>Espace</h1>
 </div>
@@ -98,7 +62,7 @@ Espace</h1>
 <div class="item exemple_3_fr" style="grid-column: 2 / span 1; grid-row: 8 / span 1; font-size: 15px;">Heure / temps / durée</div>
 <div class="item exemple_4_jp" style="grid-column: 4 / span 1; grid-row: 8 / span 1; font-size: 25px; writing-mode: vertical-rl;"><ruby>休みの間<rt>やすみのあいだ</rt></ruby></div>
 <div class="item exemple_4_fr" style="grid-column: 5 / span 1; grid-row: 8 / end; font-size: 15px;">Pendant les vacances</div>
-</div>[/et_pb_slide][/et_pb_slider][et_pb_slider _builder_version="3.0.100" background_color="#e0735b" use_background_color_gradient="on" background_color_gradient_start="#fc6076" background_color_gradient_end="#ff9a44" background_color_gradient_direction="1deg" border_radii="on|10px|10px|10px|10px" custom_padding="5%|8%|5%|5%" custom_padding_last_edited="on|desktop" box_shadow_horizontal="0px" box_shadow_vertical="3px" box_shadow_blur="6px" show_arrows="on" show_pagination="on" custom_button="off" button_icon_placement="right" show_content_on_mobile="on" show_cta_on_mobile="on" show_image_video_mobile="off"][et_pb_slide heading="Kanji" _builder_version="3.0.95"]<p style="font-size: 250px; text-shadow: 0em 0.1em 0.1em rgba(0,0,0,0.4); padding-left: 3%; line-height: 300px">間</p>[/et_pb_slide][et_pb_slide heading="Traduction" _builder_version="3.0.95" custom_padding="||80px|"]<div class="container" style="display: grid; grid-template-columns: 22% 23% 5% 23% 22%; grid-template-rows: 10% 3px 50px 15% 3px 10% 10%; grid-column-gap: 3%; grid-row-gap: 20px;">
+</div>[/et_pb_slide][/et_pb_slider][et_pb_slider _builder_version="3.0.100" background_color="#e0735b" use_background_color_gradient="on" background_color_gradient_start="#32a37b" background_color_gradient_end="#0dc44a" background_color_gradient_direction="96deg" border_radii="on|10px|10px|10px|10px" custom_padding="5%|8%|5%|5%" custom_padding_last_edited="on|desktop"][et_pb_slide heading="Kanji" _builder_version="3.0.95" background_color="#ffffff"]<p style="font-size: 250px; text-shadow: 0em 0.1em 0.1em rgba(0,0,0,0.4); padding-left: 3%; line-height: 300px">間</p>[/et_pb_slide][et_pb_slide heading="Traduction" _builder_version="3.0.95" custom_padding="||80px|" background_color="#ffffff"]<div class="container" style="display: grid; grid-template-columns: 22% 23% 5% 23% 22%; grid-template-rows: 10% 3px 50px 15% 3px 10% 10%; grid-column-gap: 3%; grid-row-gap: 20px;">
 <div class="item traduction" style="grid-column: 1 / span 5; grid-row: 1 / span 1; text-align: center; font-size: 45px;">
 <h1>Intervalle<br>Espace</h1>
 </div>
@@ -136,7 +100,7 @@ Espace</h1>
 <div class="item exemple_3_fr" style="grid-column: 2 / span 1; grid-row: 8 / span 1; font-size: 15px;">Heure / temps / durée</div>
 <div class="item exemple_4_jp" style="grid-column: 4 / span 1; grid-row: 8 / span 1; font-size: 25px; writing-mode: vertical-rl;"><ruby>休みの間<rt>やすみのあいだ</rt></ruby></div>
 <div class="item exemple_4_fr" style="grid-column: 5 / span 1; grid-row: 8 / end; font-size: 15px;">Pendant les vacances</div>
-</div>[/et_pb_slide][/et_pb_slider][et_pb_slider _builder_version="3.0.100" background_color="#e0735b" use_background_color_gradient="on" background_color_gradient_start="#fc6076" background_color_gradient_end="#ff9a44" background_color_gradient_direction="1deg" border_radii="on|10px|10px|10px|10px" custom_padding="5%|8%|5%|5%" custom_padding_last_edited="on|desktop" box_shadow_horizontal="0px" box_shadow_vertical="3px" box_shadow_blur="6px" show_arrows="on" show_pagination="on" custom_button="off" button_icon_placement="right" show_content_on_mobile="on" show_cta_on_mobile="on" show_image_video_mobile="off"][et_pb_slide heading="Kanji" _builder_version="3.0.95"]<p style="font-size: 250px; text-shadow: 0em 0.1em 0.1em rgba(0,0,0,0.4); padding-left: 3%; line-height: 300px">間</p>[/et_pb_slide][et_pb_slide heading="Traduction" _builder_version="3.0.95" custom_padding="||80px|"]<div class="container" style="display: grid; grid-template-columns: 22% 23% 5% 23% 22%; grid-template-rows: 10% 3px 50px 15% 3px 10% 10%; grid-column-gap: 3%; grid-row-gap: 20px;">
+</div>[/et_pb_slide][/et_pb_slider][et_pb_slider _builder_version="3.0.100" background_color="#e0735b" use_background_color_gradient="on" background_color_gradient_start="#764ba2" background_color_gradient_end="#667eea" background_color_gradient_direction="135deg" border_radii="on|10px|10px|10px|10px" custom_padding="5%|8%|5%|5%" custom_padding_last_edited="on|desktop"][et_pb_slide heading="Kanji" _builder_version="3.0.95" background_color="#ffffff"]<p style="font-size: 250px; text-shadow: 0em 0.1em 0.1em rgba(0,0,0,0.4); padding-left: 3%; line-height: 300px">間</p>[/et_pb_slide][et_pb_slide heading="Traduction" _builder_version="3.0.95" custom_padding="||80px|" background_color="#ffffff"]<div class="container" style="display: grid; grid-template-columns: 22% 23% 5% 23% 22%; grid-template-rows: 10% 3px 50px 15% 3px 10% 10%; grid-column-gap: 3%; grid-row-gap: 20px;">
 <div class="item traduction" style="grid-column: 1 / span 5; grid-row: 1 / span 1; text-align: center; font-size: 45px;">
 <h1>Intervalle<br>Espace</h1>
 </div>
@@ -174,7 +138,7 @@ Espace</h1>
 <div class="item exemple_3_fr" style="grid-column: 2 / span 1; grid-row: 8 / span 1; font-size: 15px;">Heure / temps / durée</div>
 <div class="item exemple_4_jp" style="grid-column: 4 / span 1; grid-row: 8 / span 1; font-size: 25px; writing-mode: vertical-rl;"><ruby>休みの間<rt>やすみのあいだ</rt></ruby></div>
 <div class="item exemple_4_fr" style="grid-column: 5 / span 1; grid-row: 8 / end; font-size: 15px;">Pendant les vacances</div>
-</div>[/et_pb_slide][/et_pb_slider][/et_pb_column][et_pb_column type="1_2"][et_pb_slider _builder_version="3.0.100" background_color="#e0735b" use_background_color_gradient="on" background_color_gradient_start="#fc6076" background_color_gradient_end="#ff9a44" background_color_gradient_direction="1deg" border_radii="on|10px|10px|10px|10px" custom_padding="5%|8%|5%|5%" custom_padding_last_edited="on|desktop" box_shadow_horizontal="0px" box_shadow_vertical="3px" box_shadow_blur="6px" show_arrows="on" show_pagination="on" custom_button="off" button_icon_placement="right" show_content_on_mobile="on" show_cta_on_mobile="on" show_image_video_mobile="off"][et_pb_slide heading="Kanji" _builder_version="3.0.95"]<p style="font-size: 250px; text-shadow: 0em 0.1em 0.1em rgba(0,0,0,0.4); padding-left: 3%; line-height: 300px">間</p>[/et_pb_slide][et_pb_slide heading="Traduction" _builder_version="3.0.95" custom_padding="||80px|"]<div class="container" style="display: grid; grid-template-columns: 22% 23% 5% 23% 22%; grid-template-rows: 10% 3px 50px 15% 3px 10% 10%; grid-column-gap: 3%; grid-row-gap: 20px;">
+</div>[/et_pb_slide][/et_pb_slider][/et_pb_column][et_pb_column type="1_2" _builder_version="3.0.47" parallax="off" parallax_method="on"][et_pb_slider _builder_version="3.0.100" background_color="#e0735b" use_background_color_gradient="on" background_color_gradient_start="#005bea" background_color_gradient_end="#00c6fb" border_radii="on|10px|10px|10px|10px" custom_padding="5%|8%|5%|5%" custom_padding_last_edited="on|desktop"][et_pb_slide heading="Kanji" _builder_version="3.0.95" background_color="#ffffff"]<p style="font-size: 250px; text-shadow: 0em 0.1em 0.1em rgba(0,0,0,0.4); padding-left: 3%; line-height: 300px">間</p>[/et_pb_slide][et_pb_slide heading="Traduction" _builder_version="3.0.95" custom_padding="||80px|" background_color="#ffffff"]<div class="container" style="display: grid; grid-template-columns: 22% 23% 5% 23% 22%; grid-template-rows: 10% 3px 50px 15% 3px 10% 10%; grid-column-gap: 3%; grid-row-gap: 20px;">
 <div class="item traduction" style="grid-column: 1 / span 5; grid-row: 1 / span 1; text-align: center; font-size: 45px;">
 <h1>Intervalle<br>Espace</h1>
 </div>
@@ -212,7 +176,7 @@ Espace</h1>
 <div class="item exemple_3_fr" style="grid-column: 2 / span 1; grid-row: 8 / span 1; font-size: 15px;">Heure / temps / durée</div>
 <div class="item exemple_4_jp" style="grid-column: 4 / span 1; grid-row: 8 / span 1; font-size: 25px; writing-mode: vertical-rl;"><ruby>休みの間<rt>やすみのあいだ</rt></ruby></div>
 <div class="item exemple_4_fr" style="grid-column: 5 / span 1; grid-row: 8 / end; font-size: 15px;">Pendant les vacances</div>
-</div>[/et_pb_slide][/et_pb_slider][et_pb_slider _builder_version="3.0.100" background_color="#e0735b" use_background_color_gradient="on" background_color_gradient_start="#fc6076" background_color_gradient_end="#ff9a44" background_color_gradient_direction="1deg" border_radii="on|10px|10px|10px|10px" custom_padding="5%|8%|5%|5%" custom_padding_last_edited="on|desktop" box_shadow_horizontal="0px" box_shadow_vertical="3px" box_shadow_blur="6px" show_arrows="on" show_pagination="on" custom_button="off" button_icon_placement="right" show_content_on_mobile="on" show_cta_on_mobile="on" show_image_video_mobile="off"][et_pb_slide heading="Kanji" _builder_version="3.0.95"]<p style="font-size: 250px; text-shadow: 0em 0.1em 0.1em rgba(0,0,0,0.4); padding-left: 3%; line-height: 300px">間</p>[/et_pb_slide][et_pb_slide heading="Traduction" _builder_version="3.0.95" custom_padding="||80px|"]<div class="container" style="display: grid; grid-template-columns: 22% 23% 5% 23% 22%; grid-template-rows: 10% 3px 50px 15% 3px 10% 10%; grid-column-gap: 3%; grid-row-gap: 20px;">
+</div>[/et_pb_slide][/et_pb_slider][et_pb_slider _builder_version="3.0.100" background_color="#e0735b" use_background_color_gradient="on" background_color_gradient_start="#13547a" background_color_gradient_end="#80d0c7" background_color_gradient_direction="15deg" border_radii="on|10px|10px|10px|10px" custom_padding="5%|8%|5%|5%" custom_padding_last_edited="on|desktop"][et_pb_slide heading="Kanji" _builder_version="3.0.95" background_color="#ffffff"]<p style="font-size: 250px; text-shadow: 0em 0.1em 0.1em rgba(0,0,0,0.4); padding-left: 3%; line-height: 300px">間</p>[/et_pb_slide][et_pb_slide heading="Traduction" _builder_version="3.0.95" custom_padding="||80px|" background_color="#ffffff"]<div class="container" style="display: grid; grid-template-columns: 22% 23% 5% 23% 22%; grid-template-rows: 10% 3px 50px 15% 3px 10% 10%; grid-column-gap: 3%; grid-row-gap: 20px;">
 <div class="item traduction" style="grid-column: 1 / span 5; grid-row: 1 / span 1; text-align: center; font-size: 45px;">
 <h1>Intervalle<br>Espace</h1>
 </div>
@@ -250,7 +214,7 @@ Espace</h1>
 <div class="item exemple_3_fr" style="grid-column: 2 / span 1; grid-row: 8 / span 1; font-size: 15px;">Heure / temps / durée</div>
 <div class="item exemple_4_jp" style="grid-column: 4 / span 1; grid-row: 8 / span 1; font-size: 25px; writing-mode: vertical-rl;"><ruby>休みの間<rt>やすみのあいだ</rt></ruby></div>
 <div class="item exemple_4_fr" style="grid-column: 5 / span 1; grid-row: 8 / end; font-size: 15px;">Pendant les vacances</div>
-</div>[/et_pb_slide][/et_pb_slider][et_pb_slider _builder_version="3.0.100" background_color="#e0735b" use_background_color_gradient="on" background_color_gradient_start="#fc6076" background_color_gradient_end="#ff9a44" background_color_gradient_direction="1deg" border_radii="on|10px|10px|10px|10px" custom_padding="5%|8%|5%|5%" custom_padding_last_edited="on|desktop" box_shadow_horizontal="0px" box_shadow_vertical="3px" box_shadow_blur="6px" show_arrows="on" show_pagination="on" custom_button="off" button_icon_placement="right" show_content_on_mobile="on" show_cta_on_mobile="on" show_image_video_mobile="off"][et_pb_slide heading="Kanji" _builder_version="3.0.95"]<p style="font-size: 250px; text-shadow: 0em 0.1em 0.1em rgba(0,0,0,0.4); padding-left: 3%; line-height: 300px">間</p>[/et_pb_slide][et_pb_slide heading="Traduction" _builder_version="3.0.95" custom_padding="||80px|"]<div class="container" style="display: grid; grid-template-columns: 22% 23% 5% 23% 22%; grid-template-rows: 10% 3px 50px 15% 3px 10% 10%; grid-column-gap: 3%; grid-row-gap: 20px;">
+</div>[/et_pb_slide][/et_pb_slider][et_pb_slider _builder_version="3.0.100" background_color="#e0735b" use_background_color_gradient="on" background_color_gradient_start="#fc6076" background_color_gradient_end="#09203f" background_color_gradient_direction="1deg" border_radii="on|10px|10px|10px|10px" custom_padding="5%|8%|5%|5%" custom_padding_last_edited="on|desktop"][et_pb_slide heading="Kanji" _builder_version="3.0.95" background_color="#ffffff"]<p style="font-size: 250px; text-shadow: 0em 0.1em 0.1em rgba(0,0,0,0.4); padding-left: 3%; line-height: 300px">間</p>[/et_pb_slide][et_pb_slide heading="Traduction" _builder_version="3.0.95" custom_padding="||80px|" background_color="#ffffff"]<div class="container" style="display: grid; grid-template-columns: 22% 23% 5% 23% 22%; grid-template-rows: 10% 3px 50px 15% 3px 10% 10%; grid-column-gap: 3%; grid-row-gap: 20px;">
 <div class="item traduction" style="grid-column: 1 / span 5; grid-row: 1 / span 1; text-align: center; font-size: 45px;">
 <h1>Intervalle<br>Espace</h1>
 </div>
