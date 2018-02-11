@@ -25,7 +25,7 @@ liste_fichiers = ListeDeFichiers(path)
 
 for fichier in liste_fichiers:
     fichier_csv = path + fichier
-    print(fichier_csv)
+    # print(fichier_csv)
 
     liste_CSV = CsvToList.convertisseur(fichier_csv)
-    print(liste_CSV)
+    # print(liste_CSV)
