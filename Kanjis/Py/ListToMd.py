@@ -1,8 +1,3 @@
-
-
-# Parameters
-# Modèle [[couleur1, couleur 2, orientation],[...],...]
-list_colors_gradients = [["#fc6076","#ff9a44","1deg"], ["#32a37b", "#0dc44a", "96deg"], ["#764ba2", "#667eea"], []]
 def make_single_item(ligne_CSV, color_background):
     # Ligne CSV : Kanji,traduction,Lecture kun 1,Lecture kun 2,Lecture on 1,Lecture on 2,Exemple 1,Exemple 1 kana,Exemple 1 traduction,Exemple 2,Exemple 2 kana,Exemple 2 traduction,Exemple 3,Exemple 3 kana,Exemple 3 traduction,Exemple 4,Exemple 4 kana,Exemple 4 traduction
     # Paramètres
@@ -37,3 +32,26 @@ item = make_single_item(ligne_CSV, color_background)
 
 ligne_CSV = ["一", "un", "ひと（つ）", "", "イチ","イツ", "一個", "イツコ","un (objet compact)","一枚","イチマイ","un (objet plat)","唯一の","ユイツの","unique","一人","ひとり","une personne"]
 print(item)
+
+def make_page(liste_CSV, list_colors_gradients):
+
+    # Paramètres
+    nbre_kanji = len(liste_CSV)
+    indice_kanji = 0
+    page = ''
+
+    # Mise en place
+    page += '[et_pb_section fb_built="1" _builder_version="3.0.95"][et_pb_row _builder_version="3.0.95"][et_pb_column type="1_2" _builder_version="3.0.47" parallax="off" parallax_method="on"]'
+
+    for indice_kanji in range(nbre_kanji):
+        indice_couleur = indice_kanji % (6-1)
+
+        color_background = list_colors_gradients[indice_couleur]
+        ligne_CSV = liste_CSV[indice_kanji]
+
+        item = make_single_item(ligne_CSV, color_background)
+        page += item
+
+    page += '[/et_pb_column][/et_pb_row][/et_pb_section]'
+
+    return page
