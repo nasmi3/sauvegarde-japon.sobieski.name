@@ -1,0 +1,5 @@
+cd /D "C:\Users\nasmi\AppData\Local\atom"
+setx git "E:\Programes portables\PortableGit\bin\git.exe" /M
+setx git "E:\Programes portables\PortableGit\bin\git.exe"
+cmd.exe
+atom.exe
