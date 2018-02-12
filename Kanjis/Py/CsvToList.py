@@ -14,5 +14,8 @@ def convertisseur(fichier):
         reader = csv.reader(f)
         liste_CSV = list(reader)
 
+        # Retire le header !
+        liste_CSV = liste_CSV[1:]
+
     # print(liste_CSV)
     return(liste_CSV)
