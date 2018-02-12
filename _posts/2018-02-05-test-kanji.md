@@ -1,6 +1,6 @@
 ---
 ID: 54
-post_title: ""
+post_title: Test kanji
 author: Alexandre
 post_excerpt: ""
 layout: post
