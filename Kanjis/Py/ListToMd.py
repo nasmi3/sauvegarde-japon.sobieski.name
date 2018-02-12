@@ -31,7 +31,7 @@ ligne_CSV = ["一", "un", "ひと（つ）", "" , "イチ", "イツ", "一個", 
 item = make_single_item(ligne_CSV, color_background)
 
 ligne_CSV = ["一", "un", "ひと（つ）", "", "イチ","イツ", "一個", "イツコ","un (objet compact)","一枚","イチマイ","un (objet plat)","唯一の","ユイツの","unique","一人","ひとり","une personne"]
-print(item)
+# print(item)
 
 def make_page(liste_CSV, list_colors_gradients):
 

@@ -42,6 +42,14 @@ for fichier in liste_fichiers:
     contenu_page = ListToMd.make_page(liste_CSV, list_colors_gradients)
 
     fichier_sans_ext = str(fichier)[:-4]
-    nom_fichier = dossier + f'{fichier_sans_ext}.md'
-    md_file = open(str(nom_fichier),, encoding="utf8")
+    nom_fichier = dossier + "Md\\"+ f'{fichier_sans_ext}.md'
+    md_file = open(str(nom_fichier), 'w', encoding="utf8")
     md_file.write(contenu_page)
+
+nbre_fichiers = len(liste_fichiers)
+if nbre_fichiers > 1 :
+    print(f"Terminé ! Au total {nbre_fichiers} articles ont été créés.")
+elif nbre_fichiers == 1:
+    print(f"Terminé ! Au total {nbre_fichiers} article a été créé.")
+else:
+    print("Aucun article n'a été créé. Le dossier CSV est-il vide ?")
