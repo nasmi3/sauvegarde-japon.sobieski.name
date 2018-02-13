@@ -39,9 +39,10 @@ for fichier in liste_fichiers:
     liste_CSV = CsvToList.convertisseur(fichier_csv)
     # print(liste_CSV)
 
-    contenu_page = ListToMd.make_page(liste_CSV, list_colors_gradients)
-
     fichier_sans_ext = str(fichier)[:-4]
+    contenu_page = '# ' + fichier_sans_ext + ' \n'
+    contenu_page += ListToMd.make_page(liste_CSV, list_colors_gradients)
+
     nom_fichier = dossier + "Md\\"+ f'{fichier_sans_ext}.md'
     md_file = open(str(nom_fichier), 'w', encoding="utf8")
     md_file.write(contenu_page)
