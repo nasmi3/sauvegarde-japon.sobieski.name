@@ -1,0 +1,17 @@
+---
+ID: 27
+post_title: Kanas
+author: Alexandre
+post_excerpt: ""
+layout: page
+permalink: http://sobieski.name/japon/?page_id=27
+published: false
+tags: [ ]
+categories: [ ]
+---
+[et_pb_section fb_built="1" _builder_version="3.0.47"][et_pb_row _builder_version="3.0.47" background_size="initial" background_position="top_left" background_repeat="repeat"][et_pb_column type="4_4" _builder_version="3.0.47" parallax="off" parallax_method="on"][et_pb_text admin_label="Text" _builder_version="3.0.100" background_size="initial" background_position="top_left" background_repeat="repeat"]<h1>Les sylabaires</h1>
+<p>Maitriser un alphabet ne pose généralement aucun problème à personne. Cependant si on commence à en rajouter d’autres, cela peut devenir un peu plus complexe. Aucune inquiétude cependant, en s’y prenant pas à pas, il est bien évidemment possible de s’y retrouver !</p>
+<p>Il faut bien commencer à apprendre les différents « alphabets » utilisés au japon. Ils sont au nombre de trois : les hiragana, les katakana et les kanjis. Ces derniers plus complexes que les précédents seront vus à part et regroupés par thématiques plus bas. Notre alphabet latin est appellé « romaji » (alphabet romain).</p>
+[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row _builder_version="3.0.47" background_size="initial" background_position="top_left" background_repeat="repeat"][et_pb_column type="1_2" _builder_version="3.0.47" parallax="off" parallax_method="on"][et_pb_cta title="Les Hiragana" button_url="http://sobieski.name/japon/les-hiraganas/" button_text="Tableau" background_color="#c75850" admin_label="Call To Action" _builder_version="3.0.100"]<h2>ひらがな</h2>
+[/et_pb_cta][/et_pb_column][et_pb_column type="1_2" _builder_version="3.0.47" parallax="off" parallax_method="on"][et_pb_cta title="Les Katakana" button_url="http://sobieski.name/japon/les-katakanas/" button_text="Tableau" background_color="#c75850" admin_label="Call To Action" _builder_version="3.0.100"]<h2>カタカナ</h2>
+[/et_pb_cta][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section fb_built="1" _builder_version="3.0.100" background_color="#eaeaea"][et_pb_row module_class_1="ds-blog-four-columnw" _builder_version="3.0.100"][et_pb_column type="1_4" _builder_version="3.0.47" parallax="off" parallax_method="on" module_class="ds-blog-four-columnw"][/et_pb_column][et_pb_column type="1_4" _builder_version="3.0.47" parallax="off" parallax_method="on"][et_pb_image src="http://sobieski.name/japon/wp-content/uploads/sites/2/Kanjis-Logo-Kanji-Light.svg" _builder_version="3.0.100" max_width="65%" module_alignment="center"][/et_pb_image][/et_pb_column][et_pb_column type="1_4" _builder_version="3.0.47" parallax="off" parallax_method="on"][et_pb_text _builder_version="3.0.100" text_font="||||||||" header_font="||||||||" header_2_font="||||||||" header_2_font_size="30px" header_2_line_height="5em"]<h2>Les kanjis</h2>[/et_pb_text][/et_pb_column][et_pb_column type="1_4" _builder_version="3.0.47" parallax="off" parallax_method="on"][/et_pb_column][/et_pb_row][et_pb_row _builder_version="3.0.100"][et_pb_column type="4_4" _builder_version="3.0.100" parallax="off" parallax_method="on"][et_pb_blog fullwidth="off" posts_number="8" include_categories="3" meta_date="j M, Y" show_author="off" show_date="off" show_categories="off" offset_number="0" module_class="ds-blog-square" _builder_version="3.0.100" pagination_font_size_tablet="51" pagination_line_height_tablet="2" text_orientation="center"][/et_pb_blog][/et_pb_column][/et_pb_row][/et_pb_section]

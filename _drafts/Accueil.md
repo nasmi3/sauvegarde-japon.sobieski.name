@@ -1,0 +1,20 @@
+---
+ID: 19
+post_title: Accueil
+author: Alexandre
+post_excerpt: ""
+layout: page
+permalink: http://sobieski.name/japon/?page_id=19
+published: false
+tags: [ ]
+categories: [ ]
+---
+[et_pb_section fb_built="1" fullwidth="on" _builder_version="3.0.95"][et_pb_fullwidth_header title="Apprentissage du japonais" subhead="Bienvenue" background_layout="dark" text_orientation="center" logo_image_url="http://sobieski.name/japon/wp-content/uploads/sites/2/Logo-Japon.svg" _builder_version="3.0.100" background_color="#c75850" custom_css_logo="width:25%"]<p>Entrez dans la section dédiée à l’apprentissage du japonais.</p>
+<p>Vous trouverez des points de grammaire, de vocabulaire... Vous pourrez progresser à votre rythme avec les sujets qui vous intéressent.</p>
+[/et_pb_fullwidth_header][/et_pb_section][et_pb_section fb_built="1" _builder_version="3.0.95"][/et_pb_section][et_pb_section fb_built="1" background_color="#000000" custom_padding_last_edited="on|desktop" _builder_version="3.0.100" border_radii="|240px|||240px" custom_margin="5%||5%|5%" custom_padding="60px|5%|60px|" custom_padding_tablet="|0px||" custom_padding_phone="12%||12%|6%"][et_pb_row _builder_version="3.0.47" background_size="initial" background_position="top_left" background_repeat="repeat"][et_pb_column type="1_3" _builder_version="3.0.95" parallax="off" parallax_method="on"][et_pb_blurb _builder_version="3.0.100" background_color="#ffffff" border_radii="on|6px|6px|6px|6px" custom_margin="|||" custom_padding="40px|20px|40px|20px" box_shadow_style="preset1" box_shadow_vertical="24px" box_shadow_blur="28px" box_shadow_spread="-16px" box_shadow_color="rgba(0,0,0,0.24)" title="Grammaire"]<p><span>Apprenez des règles de grammaire, indispensable à toute langue et ainsi vous formerez des phrases parfaites, facilement.</span></p>
+[/et_pb_blurb][/et_pb_column][et_pb_column type="1_3" _builder_version="3.0.95" parallax="off" parallax_method="on"][et_pb_blurb _builder_version="3.0.100" background_color="#ffffff" border_radii="on|6px|6px|6px|6px" custom_margin="|||" custom_padding="40px|20px|40px|20px" box_shadow_style="preset1" box_shadow_vertical="24px" box_shadow_blur="28px" box_shadow_spread="-16px" box_shadow_color="rgba(0,0,0,0.24)" title="Vocabulaire"]<p><span>Après la forme, il faut le fond. Choisissez parmi un grand nombre de fiches de vocabulaire thématiques.</span></p>
+[/et_pb_blurb][et_pb_blurb _builder_version="3.0.100" background_color="#ffffff" border_radii="on|6px|6px|6px|6px" custom_margin="|||" custom_padding="40px|20px|40px|20px" box_shadow_style="preset1" box_shadow_vertical="24px" box_shadow_blur="28px" box_shadow_spread="-16px" box_shadow_color="rgba(0,0,0,0.24)" title="Culture"]<p><span>Vous prévoyez de vous rendre un jour au japon, il faut s’informer sur la culture du pays. Cette section est là pour ça.</span></p>
+[/et_pb_blurb][/et_pb_column][et_pb_column type="1_3" _builder_version="3.0.95" parallax="off" parallax_method="on"][et_pb_image src="http://sobieski.name/japon/wp-content/uploads/sites/2/Kanjis-Logo-Kanji.png" _builder_version="3.0.100"][/et_pb_image][et_pb_blurb _builder_version="3.0.100" background_color="#ffffff" border_radii="on|6px|6px|6px|6px" custom_margin="|||" custom_padding="40px|20px|40px|20px" box_shadow_style="preset1" box_shadow_vertical="24px" box_shadow_blur="28px" box_shadow_spread="-16px" box_shadow_color="rgba(0,0,0,0.24)" title="Kanas"]<p><span>Pour ne plus avoir l’air d’un débutant, venez (ré)apprendre à écrire.</span></p>
+[/et_pb_blurb][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section fb_built="1" _builder_version="3.0.100"][et_pb_row _builder_version="3.0.100"][et_pb_column type="4_4" _builder_version="3.0.100" parallax="off" parallax_method="on"][et_pb_text _builder_version="3.0.100"]<h2 class="et_pb_module_header">Contactez moi</h2>
+<p>En cas de besoin, contactez moi facilement en m’envoyant un mail.</p>
+[/et_pb_text][et_pb_button button_text="Contact" _builder_version="3.0.100"][/et_pb_button][/et_pb_column][/et_pb_row][/et_pb_section]
